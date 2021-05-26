@@ -1,0 +1,7 @@
+C:\Users\JDMil\OneDrive\Desktop\Projects\3.24.Assignments2\bin\Debug\3.24.Assignments2.exe.config
+C:\Users\JDMil\OneDrive\Desktop\Projects\3.24.Assignments2\bin\Debug\3.24.Assignments2.exe
+C:\Users\JDMil\OneDrive\Desktop\Projects\3.24.Assignments2\bin\Debug\3.24.Assignments2.pdb
+C:\Users\JDMil\OneDrive\Desktop\Projects\3.24.Assignments2\obj\Debug\3.24.Assignments2.csprojAssemblyReference.cache
+C:\Users\JDMil\OneDrive\Desktop\Projects\3.24.Assignments2\obj\Debug\3.24.Assignments2.csproj.CoreCompileInputs.cache
+C:\Users\JDMil\OneDrive\Desktop\Projects\3.24.Assignments2\obj\Debug\3.24.Assignments2.exe
+C:\Users\JDMil\OneDrive\Desktop\Projects\3.24.Assignments2\obj\Debug\3.24.Assignments2.pdb
